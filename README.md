@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mstacey-codes
-- 👀 I’m interested in ...
+- 👀 I’m interested in way too many things to list here
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mstacey.codes@gmail.com and MStaceyCodes on twitter
 
 <!---
