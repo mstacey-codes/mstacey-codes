@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mstacey-codes
-- 👀 I’m interested in way too many things to list here
-- 🌱 I’m currently learning Javascript
+- 🚀 I’m a student at Launch Academy, Cohort 35 - Expected graduation: March 2022
+- 🌱 I’m currently learning Javascript, Node, and React
 - 📫 How to reach me mstacey.codes@gmail.com and MStaceyCodes on twitter
 
 <!---
